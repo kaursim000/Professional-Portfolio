@@ -1,9 +1,9 @@
-*{
+ *{
     font-family: Arial, sans-serif;
     background-color: rgb(217, 219, 241);
     color: rgb(45, 70, 84);
-}
-nav {
+} 
+navbar {
     height: 100px;
     width: 100%;
     background-color: rgb(128, 94, 115);
@@ -20,7 +20,7 @@ nav h1 {
     width: 300px;
     text-indent: 60px;
     color: rgb(45, 70, 84);
-}
+} 
 
 
 h1{
@@ -90,6 +90,7 @@ main{
     padding-left: 200px;
     /* position: relative; */
     
+
 }
 .flowers{
     position: relative;
@@ -114,4 +115,4 @@ footer{
     justify-content: space-between;
     align-items: flex-end;
     
-}
+} 
